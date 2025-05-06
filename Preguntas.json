@@ -1,0 +1,464 @@
+[
+    {
+      "categoria": "Naturaleza",
+      "pregunta": "¿Cuál es el animal terrestre más grande del mundo?",
+      "opciones": [
+        "Elefante africano",
+        "Jirafa",
+        "Hipopótamo",
+        "Rinoceronte"
+      ],
+      "respuestaCorrecta": "Elefante africano"
+    },
+    {
+      "categoria": "Naturaleza",
+      "pregunta": "¿Qué gas es esencial para la respiración de los seres humanos?",
+      "opciones": [
+        "Oxígeno",
+        "Nitrógeno",
+        "Dióxido de carbono",
+        "Hidrógeno"
+      ],
+      "respuestaCorrecta": "Oxígeno"
+    },
+    {
+      "categoria": "Naturaleza",
+      "pregunta": "¿Cuál es el ecosistema más grande del planeta?",
+      "opciones": [
+        "Océano",
+        "Selva",
+        "Desierto",
+        "Sabana"
+      ],
+      "respuestaCorrecta": "Océano"
+    },
+    {
+      "categoria": "Naturaleza",
+      "pregunta": "¿Qué animal pone huevos?",
+      "opciones": [
+        "Ornitorrinco",
+        "Ballena",
+        "León",
+        "Canguro"
+      ],
+      "respuestaCorrecta": "Ornitorrinco"
+    },
+    {
+      "categoria": "Naturaleza",
+      "pregunta": "¿Cuál es el ave más rápida del mundo?",
+      "opciones": [
+        "Halcón peregrino",
+        "Águila real",
+        "Colibrí",
+        "Búho"
+      ],
+      "respuestaCorrecta": "Halcón peregrino"
+    },
+    {
+      "categoria": "Naturaleza",
+      "pregunta": "¿Qué parte del cuerpo utilizan las mariposas para saborear?",
+      "opciones": [
+        "Patas",
+        "Lengua",
+        "Alas",
+        "Antenas"
+      ],
+      "respuestaCorrecta": "Patas"
+    },
+    {
+      "categoria": "Naturaleza",
+      "pregunta": "¿Cuántos corazones tiene un pulpo?",
+      "opciones": [
+        "Tres",
+        "Uno",
+        "Cuatro",
+        "Dos"
+      ],
+      "respuestaCorrecta": "Tres"
+    },
+    {
+      "categoria": "Clima",
+      "pregunta": "¿Qué instrumento se usa para medir la temperatura?",
+      "opciones": [
+        "Termómetro",
+        "Barómetro",
+        "Anemómetro",
+        "Pluviómetro"
+      ],
+      "respuestaCorrecta": "Termómetro"
+    },
+    {
+      "categoria": "Clima",
+      "pregunta": "¿Qué fenómeno meteorológico implica rayos y truenos?",
+      "opciones": [
+        "Tormenta eléctrica",
+        "Huracán",
+        "Nevada",
+        "Lluvia ligera"
+      ],
+      "respuestaCorrecta": "Tormenta eléctrica"
+    },
+    {
+      "categoria": "Clima",
+      "pregunta": "¿Qué mide un pluviómetro?",
+      "opciones": [
+        "Lluvia",
+        "Viento",
+        "Temperatura",
+        "Humedad"
+      ],
+      "respuestaCorrecta": "Lluvia"
+    },
+    {
+      "categoria": "Clima",
+      "pregunta": "¿Qué significa si la humedad está alta?",
+      "opciones": [
+        "Hay más vapor de agua en el aire",
+        "Hace más frío",
+        "El viento es fuerte",
+        "Va a nevar"
+      ],
+      "respuestaCorrecta": "Hay más vapor de agua en el aire"
+    },
+    {
+      "categoria": "Clima",
+      "pregunta": "¿Cuál es el clima predominante en el Sahara?",
+      "opciones": [
+        "Desértico",
+        "Templado",
+        "Polar",
+        "Húmedo"
+      ],
+      "respuestaCorrecta": "Desértico"
+    },
+    {
+      "categoria": "Clima",
+      "pregunta": "¿Cuál es la fuente principal de energía que afecta al clima?",
+      "opciones": [
+        "El Sol",
+        "La Luna",
+        "Los volcanes",
+        "Los ríos"
+      ],
+      "respuestaCorrecta": "El Sol"
+    },
+    {
+      "categoria": "Clima",
+      "pregunta": "¿Qué produce un tornado?",
+      "opciones": [
+        "Corrientes de aire caliente y frío",
+        "Lluvia constante",
+        "Erupciones volcánicas",
+        "Nieve intensa"
+      ],
+      "respuestaCorrecta": "Corrientes de aire caliente y frío"
+    },
+    {
+      "categoria": "Arte",
+      "pregunta": "¿Quién pintó la Mona Lisa?",
+      "opciones": [
+        "Leonardo da Vinci",
+        "Picasso",
+        "Miguel Ángel",
+        "Dalí"
+      ],
+      "respuestaCorrecta": "Leonardo da Vinci"
+    },
+    {
+      "categoria": "Arte",
+      "pregunta": "¿Qué arte utiliza barro o arcilla?",
+      "opciones": [
+        "Cerámica",
+        "Pintura",
+        "Grabado",
+        "Fotografía"
+      ],
+      "respuestaCorrecta": "Cerámica"
+    },
+    {
+      "categoria": "Arte",
+      "pregunta": "¿Qué tipo de arte es el ballet?",
+      "opciones": [
+        "Danza",
+        "Teatro",
+        "Pintura",
+        "Música"
+      ],
+      "respuestaCorrecta": "Danza"
+    },
+    {
+      "categoria": "Arte",
+      "pregunta": "¿Qué instrumento se usa en la escultura?",
+      "opciones": [
+        "Cincel",
+        "Pincel",
+        "Paleta",
+        "Bastidor"
+      ],
+      "respuestaCorrecta": "Cincel"
+    },
+    {
+      "categoria": "Arte",
+      "pregunta": "¿Cuál es una forma de arte callejero?",
+      "opciones": [
+        "Graffiti",
+        "Ópera",
+        "Cine",
+        "Escultura clásica"
+      ],
+      "respuestaCorrecta": "Graffiti"
+    },
+    {
+      "categoria": "Arte",
+      "pregunta": "¿Quién pintó 'La noche estrellada'?",
+      "opciones": [
+        "Vincent van Gogh",
+        "Goya",
+        "Monet",
+        "Klimt"
+      ],
+      "respuestaCorrecta": "Vincent van Gogh"
+    },
+    {
+      "categoria": "Arte",
+      "pregunta": "¿Qué es un mural?",
+      "opciones": [
+        "Pintura en una pared",
+        "Escultura pequeña",
+        "Tatuaje",
+        "Fotografía aérea"
+      ],
+      "respuestaCorrecta": "Pintura en una pared"
+    },
+    {
+      "categoria": "Países",
+      "pregunta": "¿Cuál es el país más grande del mundo?",
+      "opciones": [
+        "Rusia",
+        "China",
+        "Canadá",
+        "EE.UU."
+      ],
+      "respuestaCorrecta": "Rusia"
+    },
+    {
+      "categoria": "Países",
+      "pregunta": "¿En qué país está la Torre Eiffel?",
+      "opciones": [
+        "Francia",
+        "Italia",
+        "España",
+        "Alemania"
+      ],
+      "respuestaCorrecta": "Francia"
+    },
+    {
+      "categoria": "Países",
+      "pregunta": "¿Qué país tiene forma de bota?",
+      "opciones": [
+        "Italia",
+        "Grecia",
+        "Chile",
+        "India"
+      ],
+      "respuestaCorrecta": "Italia"
+    },
+    {
+      "categoria": "Países",
+      "pregunta": "¿Cuál es el idioma oficial de Brasil?",
+      "opciones": [
+        "Portugués",
+        "Español",
+        "Inglés",
+        "Francés"
+      ],
+      "respuestaCorrecta": "Portugués"
+    },
+    {
+      "categoria": "Países",
+      "pregunta": "¿Dónde se encuentra el Monte Fuji?",
+      "opciones": [
+        "Japón",
+        "China",
+        "Corea",
+        "India"
+      ],
+      "respuestaCorrecta": "Japón"
+    },
+    {
+      "categoria": "Países",
+      "pregunta": "¿Cuál es la capital de Australia?",
+      "opciones": [
+        "Canberra",
+        "Sídney",
+        "Melbourne",
+        "Brisbane"
+      ],
+      "respuestaCorrecta": "Canberra"
+    },
+    {
+      "categoria": "Países",
+      "pregunta": "¿Qué país tiene más habitantes?",
+      "opciones": [
+        "India",
+        "China",
+        "EE.UU.",
+        "Indonesia"
+      ],
+      "respuestaCorrecta": "India"
+    },
+    {
+      "categoria": "Espacio",
+      "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+      "opciones": [
+        "Júpiter",
+        "Saturno",
+        "Tierra",
+        "Neptuno"
+      ],
+      "respuestaCorrecta": "Júpiter"
+    },
+    {
+      "categoria": "Espacio",
+      "pregunta": "¿Cuántos planetas tiene el sistema solar?",
+      "opciones": [
+        "8",
+        "7",
+        "9",
+        "6"
+      ],
+      "respuestaCorrecta": "8"
+    },
+    {
+      "categoria": "Espacio",
+      "pregunta": "¿Qué astro ilumina la Tierra?",
+      "opciones": [
+        "El Sol",
+        "La Luna",
+        "Marte",
+        "Venus"
+      ],
+      "respuestaCorrecta": "El Sol"
+    },
+    {
+      "categoria": "Espacio",
+      "pregunta": "¿Quién fue el primer hombre en la Luna?",
+      "opciones": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "Elon Musk"
+      ],
+      "respuestaCorrecta": "Neil Armstrong"
+    },
+    {
+      "categoria": "Espacio",
+      "pregunta": "¿Qué planeta tiene un gran anillo a su alrededor?",
+      "opciones": [
+        "Saturno",
+        "Urano",
+        "Júpiter",
+        "Neptuno"
+      ],
+      "respuestaCorrecta": "Saturno"
+    },
+    {
+      "categoria": "Espacio",
+      "pregunta": "¿Qué planeta es conocido como el planeta rojo?",
+      "opciones": [
+        "Marte",
+        "Venus",
+        "Mercurio",
+        "Tierra"
+      ],
+      "respuestaCorrecta": "Marte"
+    },
+    {
+      "categoria": "Espacio",
+      "pregunta": "¿Cómo se llama nuestra galaxia?",
+      "opciones": [
+        "Vía Láctea",
+        "Andrómeda",
+        "Sagitario A",
+        "Alfa Centauri"
+      ],
+      "respuestaCorrecta": "Vía Láctea"
+    },
+    {
+      "categoria": "Plantas",
+      "pregunta": "¿Qué parte de la planta absorbe el agua?",
+      "opciones": [
+        "Raíz",
+        "Tallo",
+        "Hojas",
+        "Flores"
+      ],
+      "respuestaCorrecta": "Raíz"
+    },
+    {
+      "categoria": "Plantas",
+      "pregunta": "¿Qué gas toman las plantas para hacer fotosíntesis?",
+      "opciones": [
+        "Dióxido de carbono",
+        "Oxígeno",
+        "Nitrógeno",
+        "Helio"
+      ],
+      "respuestaCorrecta": "Dióxido de carbono"
+    },
+    {
+      "categoria": "Plantas",
+      "pregunta": "¿Qué parte de la planta hace la fotosíntesis?",
+      "opciones": [
+        "Hojas",
+        "Raíz",
+        "Flor",
+        "Fruto"
+      ],
+      "respuestaCorrecta": "Hojas"
+    },
+    {
+      "categoria": "Plantas",
+      "pregunta": "¿Qué necesitan las plantas para crecer?",
+      "opciones": [
+        "Luz, agua y tierra",
+        "Fuego y humo",
+        "Azúcar y sal",
+        "Viento y arena"
+      ],
+      "respuestaCorrecta": "Luz, agua y tierra"
+    },
+    {
+      "categoria": "Plantas",
+      "pregunta": "¿Qué parte de la planta se convierte en fruto?",
+      "opciones": [
+        "Flor",
+        "Raíz",
+        "Hojas",
+        "Tallo"
+      ],
+      "respuestaCorrecta": "Flor"
+    },
+    {
+      "categoria": "Plantas",
+      "pregunta": "¿Qué tipo de planta vive en el desierto?",
+      "opciones": [
+        "Cactus",
+        "Lirio",
+        "Helecho",
+        "Margarita"
+      ],
+      "respuestaCorrecta": "Cactus"
+    },
+    {
+      "categoria": "Plantas",
+      "pregunta": "¿Qué parte de la planta transporta agua y nutrientes?",
+      "opciones": [
+        "Tallo",
+        "Flor",
+        "Raíz",
+        "Semilla"
+      ],
+      "respuestaCorrecta": "Tallo"
+    }
+  ]
