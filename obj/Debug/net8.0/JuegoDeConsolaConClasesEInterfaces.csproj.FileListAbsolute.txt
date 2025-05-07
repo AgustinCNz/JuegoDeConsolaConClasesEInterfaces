@@ -1,0 +1,15 @@
+C:\Users\Gusti\source\programacionIII2025\JuegoDeConsolaConClasesEInterfaces\bin\Debug\net8.0\JuegoDeConsolaConClasesEInterfaces.exe
+C:\Users\Gusti\source\programacionIII2025\JuegoDeConsolaConClasesEInterfaces\bin\Debug\net8.0\JuegoDeConsolaConClasesEInterfaces.deps.json
+C:\Users\Gusti\source\programacionIII2025\JuegoDeConsolaConClasesEInterfaces\bin\Debug\net8.0\JuegoDeConsolaConClasesEInterfaces.runtimeconfig.json
+C:\Users\Gusti\source\programacionIII2025\JuegoDeConsolaConClasesEInterfaces\bin\Debug\net8.0\JuegoDeConsolaConClasesEInterfaces.dll
+C:\Users\Gusti\source\programacionIII2025\JuegoDeConsolaConClasesEInterfaces\bin\Debug\net8.0\JuegoDeConsolaConClasesEInterfaces.pdb
+C:\Users\Gusti\source\programacionIII2025\JuegoDeConsolaConClasesEInterfaces\obj\Debug\net8.0\JuegoDeConsolaConClasesEInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gusti\source\programacionIII2025\JuegoDeConsolaConClasesEInterfaces\obj\Debug\net8.0\JuegoDeConsolaConClasesEInterfaces.AssemblyInfoInputs.cache
+C:\Users\Gusti\source\programacionIII2025\JuegoDeConsolaConClasesEInterfaces\obj\Debug\net8.0\JuegoDeConsolaConClasesEInterfaces.AssemblyInfo.cs
+C:\Users\Gusti\source\programacionIII2025\JuegoDeConsolaConClasesEInterfaces\obj\Debug\net8.0\JuegoDeConsolaConClasesEInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Gusti\source\programacionIII2025\JuegoDeConsolaConClasesEInterfaces\obj\Debug\net8.0\JuegoDeConsolaConClasesEInterfaces.sourcelink.json
+C:\Users\Gusti\source\programacionIII2025\JuegoDeConsolaConClasesEInterfaces\obj\Debug\net8.0\JuegoDeConsolaConClasesEInterfaces.dll
+C:\Users\Gusti\source\programacionIII2025\JuegoDeConsolaConClasesEInterfaces\obj\Debug\net8.0\refint\JuegoDeConsolaConClasesEInterfaces.dll
+C:\Users\Gusti\source\programacionIII2025\JuegoDeConsolaConClasesEInterfaces\obj\Debug\net8.0\JuegoDeConsolaConClasesEInterfaces.pdb
+C:\Users\Gusti\source\programacionIII2025\JuegoDeConsolaConClasesEInterfaces\obj\Debug\net8.0\JuegoDeConsolaConClasesEInterfaces.genruntimeconfig.cache
+C:\Users\Gusti\source\programacionIII2025\JuegoDeConsolaConClasesEInterfaces\obj\Debug\net8.0\ref\JuegoDeConsolaConClasesEInterfaces.dll

@@ -1,627 +1,292 @@
 [
-  [
-    {
-      "Categoria": "Naturaleza",
-      "Enunciado": "¿Cuál es el río más largo del mundo?",
-      "Respuesta1": "Amazonas",
-      "Respuesta2": "Nilo",
-      "Respuesta3": "Yangtsé",
-      "Respuesta4": "Misisipi",
-      "RespuestaCorrecta": "Amazonas"
-    },
-    {
-      "Categoria": "Naturaleza",
-      "Enunciado": "¿Qué tipo de energía proviene del sol?",
-      "Respuesta1": "Energía térmica",
-      "Respuesta2": "Energía eólica",
-      "Respuesta3": "Energía solar",
-      "Respuesta4": "Energía hidroeléctrica",
-      "RespuestaCorrecta": "Energía solar"
-    },
-    {
-      "Categoria": "Naturaleza",
-      "Enunciado": "¿Dónde se encuentra la Gran Barrera de Coral?",
-      "Respuesta1": "México",
-      "Respuesta2": "Australia",
-      "Respuesta3": "Indonesia",
-      "Respuesta4": "Sudáfrica",
-      "RespuestaCorrecta": "Australia"
-    },
-    {
-      "Categoria": "Naturaleza",
-      "Enunciado": "¿Cuál es el desierto más grande del mundo?",
-      "Respuesta1": "Sahara",
-      "Respuesta2": "Gobi",
-      "Respuesta3": "Antártida",
-      "Respuesta4": "Kalahari",
-      "RespuestaCorrecta": "Antártida"
-    },
-    {
-      "Categoria": "Naturaleza",
-      "Enunciado": "¿Qué capa de la Tierra está justo debajo de la corteza?",
-      "Respuesta1": "Núcleo",
-      "Respuesta2": "Manto",
-      "Respuesta3": "Litosfera",
-      "Respuesta4": "Atmósfera",
-      "RespuestaCorrecta": "Manto"
-    },
-    {
-      "Categoria": "Naturaleza",
-      "Enunciado": "¿Qué fenómeno natural puede causar un tsunami?",
-      "Respuesta1": "Erupción volcánica",
-      "Respuesta2": "Terremoto submarino",
-      "Respuesta3": "Huracán",
-      "Respuesta4": "Tornado",
-      "RespuestaCorrecta": "Terremoto submarino"
-    },
-    {
-      "Categoria": "Clima",
-      "Enunciado": "¿Qué instrumento mide la temperatura?",
-      "Respuesta1": "Barómetro",
-      "Respuesta2": "Termómetro",
-      "Respuesta3": "Higrómetro",
-      "Respuesta4": "Anemómetro",
-      "RespuestaCorrecta": "Termómetro"
-    },
-    {
-      "Categoria": "Clima",
-      "Enunciado": "¿Qué gas contribuye al efecto invernadero?",
-      "Respuesta1": "Oxígeno",
-      "Respuesta2": "Nitrógeno",
-      "Respuesta3": "Dióxido de carbono",
-      "Respuesta4": "Hidrógeno",
-      "RespuestaCorrecta": "Dióxido de carbono"
-    },
-    {
-      "Categoria": "Clima",
-      "Enunciado": "¿Qué fenómeno produce relámpagos y truenos?",
-      "Respuesta1": "Lluvia ligera",
-      "Respuesta2": "Tormenta eléctrica",
-      "Respuesta3": "Granizo",
-      "Respuesta4": "Niebla",
-      "RespuestaCorrecta": "Tormenta eléctrica"
-    },
-    {
-      "Categoria": "Clima",
-      "Enunciado": "¿Cuál es el principal causante del cambio climático?",
-      "Respuesta1": "Uso de plásticos",
-      "Respuesta2": "Deforestación",
-      "Respuesta3": "Gases de efecto invernadero",
-      "Respuesta4": "Contaminación del agua",
-      "RespuestaCorrecta": "Gases de efecto invernadero"
-    },
-    {
-      "Categoria": "Clima",
-      "Enunciado": "¿Qué significa el índice UV alto?",
-      "Respuesta1": "Lluvia intensa",
-      "Respuesta2": "Mayor radiación solar",
-      "Respuesta3": "Alta humedad",
-      "Respuesta4": "Fuerte viento",
-      "RespuestaCorrecta": "Mayor radiación solar"
-    },
-    {
-      "Categoria": "Clima",
-      "Enunciado": "¿Cómo se llama el estudio del clima?",
-      "Respuesta1": "Astronomía",
-      "Respuesta2": "Ecología",
-      "Respuesta3": "Meteorología",
-      "Respuesta4": "Geología",
-      "RespuestaCorrecta": "Meteorología"
-    },
-    {
-      "Categoria": "Arte",
-      "Enunciado": "¿Quién pintó la Capilla Sixtina?",
-      "Respuesta1": "Da Vinci",
-      "Respuesta2": "Miguel Ángel",
-      "Respuesta3": "Picasso",
-      "Respuesta4": "Rembrandt",
-      "RespuestaCorrecta": "Miguel Ángel"
-    },
-    {
-      "Categoria": "Arte",
-      "Enunciado": "¿Qué es un fresco?",
-      "Respuesta1": "Una escultura pequeña",
-      "Respuesta2": "Pintura sobre madera",
-      "Respuesta3": "Pintura sobre yeso húmedo",
-      "Respuesta4": "Tipo de grabado",
-      "RespuestaCorrecta": "Pintura sobre yeso húmedo"
-    },
-    {
-      "Categoria": "Arte",
-      "Enunciado": "¿Qué artista es famoso por pintar girasoles?",
-      "Respuesta1": "Monet",
-      "Respuesta2": "Van Gogh",
-      "Respuesta3": "Dalí",
-      "Respuesta4": "Klimt",
-      "RespuestaCorrecta": "Van Gogh"
-    },
-    {
-      "Categoria": "Arte",
-      "Enunciado": "¿Cuál es una técnica de escultura?",
-      "Respuesta1": "Modelado",
-      "Respuesta2": "Collage",
-      "Respuesta3": "Acuarela",
-      "Respuesta4": "Fotografía",
-      "RespuestaCorrecta": "Modelado"
-    },
-    {
-      "Categoria": "Arte",
-      "Enunciado": "¿Dónde se encuentra el Museo del Louvre?",
-      "Respuesta1": "Roma",
-      "Respuesta2": "Londres",
-      "Respuesta3": "París",
-      "Respuesta4": "Madrid",
-      "RespuestaCorrecta": "París"
-    },
-    {
-      "Categoria": "Arte",
-      "Enunciado": "¿Qué arte usa cámaras y luz?",
-      "Respuesta1": "Pintura",
-      "Respuesta2": "Escultura",
-      "Respuesta3": "Fotografía",
-      "Respuesta4": "Dibujo",
-      "RespuestaCorrecta": "Fotografía"
-    },
-    {
-      "Categoria": "Países",
-      "Enunciado": "¿Cuál es el país más poblado del mundo?",
-      "Respuesta1": "India",
-      "Respuesta2": "China",
-      "Respuesta3": "EE.UU.",
-      "Respuesta4": "Brasil",
-      "RespuestaCorrecta": "China"
-    },
-    {
-      "Categoria": "Países",
-      "Enunciado": "¿Cuál es la capital de Japón?",
-      "Respuesta1": "Kyoto",
-      "Respuesta2": "Osaka",
-      "Respuesta3": "Tokio",
-      "Respuesta4": "Nagoya",
-      "RespuestaCorrecta": "Tokio"
-    },
-    {
-      "Categoria": "Países",
-      "Enunciado": "¿En qué continente está Egipto?",
-      "Respuesta1": "Asia",
-      "Respuesta2": "África",
-      "Respuesta3": "Europa",
-      "Respuesta4": "América",
-      "RespuestaCorrecta": "África"
-    },
-    {
-      "Categoria": "Países",
-      "Enunciado": "¿Qué país tiene forma de bota?",
-      "Respuesta1": "Grecia",
-      "Respuesta2": "Italia",
-      "Respuesta3": "España",
-      "Respuesta4": "Portugal",
-      "RespuestaCorrecta": "Italia"
-    },
-    {
-      "Categoria": "Países",
-      "Enunciado": "¿Cuál es el idioma oficial de Brasil?",
-      "Respuesta1": "Español",
-      "Respuesta2": "Portugués",
-      "Respuesta3": "Inglés",
-      "Respuesta4": "Francés",
-      "RespuestaCorrecta": "Portugués"
-    },
-    {
-      "Categoria": "Países",
-      "Enunciado": "¿Dónde está el Taj Mahal?",
-      "Respuesta1": "Pakistán",
-      "Respuesta2": "India",
-      "Respuesta3": "Irán",
-      "Respuesta4": "Nepal",
-      "RespuestaCorrecta": "India"
-    }
-  ],
-    {
-      "categoria": "Naturaleza",
-      "pregunta": "¿Qué parte del cuerpo utilizan las mariposas para saborear?",
-      "opciones": [
-        "Patas",
-        "Lengua",
-        "Alas",
-        "Antenas"
-      ],
-      "respuestaCorrecta": "Patas"
-    },
-    {
-      "categoria": "Naturaleza",
-      "pregunta": "¿Cuántos corazones tiene un pulpo?",
-      "opciones": [
-        "Tres",
-        "Uno",
-        "Cuatro",
-        "Dos"
-      ],
-      "respuestaCorrecta": "Tres"
-    },
-    {
-      "categoria": "Clima",
-      "pregunta": "¿Qué instrumento se usa para medir la temperatura?",
-      "opciones": [
-        "Termómetro",
-        "Barómetro",
-        "Anemómetro",
-        "Pluviómetro"
-      ],
-      "respuestaCorrecta": "Termómetro"
-    },
-    {
-      "categoria": "Clima",
-      "pregunta": "¿Qué fenómeno meteorológico implica rayos y truenos?",
-      "opciones": [
-        "Tormenta eléctrica",
-        "Huracán",
-        "Nevada",
-        "Lluvia ligera"
-      ],
-      "respuestaCorrecta": "Tormenta eléctrica"
-    },
-    {
-      "categoria": "Clima",
-      "pregunta": "¿Qué mide un pluviómetro?",
-      "opciones": [
-        "Lluvia",
-        "Viento",
-        "Temperatura",
-        "Humedad"
-      ],
-      "respuestaCorrecta": "Lluvia"
-    },
-    {
-      "categoria": "Clima",
-      "pregunta": "¿Qué significa si la humedad está alta?",
-      "opciones": [
-        "Hay más vapor de agua en el aire",
-        "Hace más frío",
-        "El viento es fuerte",
-        "Va a nevar"
-      ],
-      "respuestaCorrecta": "Hay más vapor de agua en el aire"
-    },
-    {
-      "categoria": "Clima",
-      "pregunta": "¿Cuál es el clima predominante en el Sahara?",
-      "opciones": [
-        "Desértico",
-        "Templado",
-        "Polar",
-        "Húmedo"
-      ],
-      "respuestaCorrecta": "Desértico"
-    },
-    {
-      "categoria": "Clima",
-      "pregunta": "¿Cuál es la fuente principal de energía que afecta al clima?",
-      "opciones": [
-        "El Sol",
-        "La Luna",
-        "Los volcanes",
-        "Los ríos"
-      ],
-      "respuestaCorrecta": "El Sol"
-    },
-    {
-      "categoria": "Clima",
-      "pregunta": "¿Qué produce un tornado?",
-      "opciones": [
-        "Corrientes de aire caliente y frío",
-        "Lluvia constante",
-        "Erupciones volcánicas",
-        "Nieve intensa"
-      ],
-      "respuestaCorrecta": "Corrientes de aire caliente y frío"
-    },
-    {
-      "categoria": "Arte",
-      "pregunta": "¿Quién pintó la Mona Lisa?",
-      "opciones": [
-        "Leonardo da Vinci",
-        "Picasso",
-        "Miguel Ángel",
-        "Dalí"
-      ],
-      "respuestaCorrecta": "Leonardo da Vinci"
-    },
-    {
-      "categoria": "Arte",
-      "pregunta": "¿Qué arte utiliza barro o arcilla?",
-      "opciones": [
-        "Cerámica",
-        "Pintura",
-        "Grabado",
-        "Fotografía"
-      ],
-      "respuestaCorrecta": "Cerámica"
-    },
-    {
-      "categoria": "Arte",
-      "pregunta": "¿Qué tipo de arte es el ballet?",
-      "opciones": [
-        "Danza",
-        "Teatro",
-        "Pintura",
-        "Música"
-      ],
-      "respuestaCorrecta": "Danza"
-    },
-    {
-      "categoria": "Arte",
-      "pregunta": "¿Qué instrumento se usa en la escultura?",
-      "opciones": [
-        "Cincel",
-        "Pincel",
-        "Paleta",
-        "Bastidor"
-      ],
-      "respuestaCorrecta": "Cincel"
-    },
-    {
-      "categoria": "Arte",
-      "pregunta": "¿Cuál es una forma de arte callejero?",
-      "opciones": [
-        "Graffiti",
-        "Ópera",
-        "Cine",
-        "Escultura clásica"
-      ],
-      "respuestaCorrecta": "Graffiti"
-    },
-    {
-      "categoria": "Arte",
-      "pregunta": "¿Quién pintó 'La noche estrellada'?",
-      "opciones": [
-        "Vincent van Gogh",
-        "Goya",
-        "Monet",
-        "Klimt"
-      ],
-      "respuestaCorrecta": "Vincent van Gogh"
-    },
-    {
-      "categoria": "Arte",
-      "pregunta": "¿Qué es un mural?",
-      "opciones": [
-        "Pintura en una pared",
-        "Escultura pequeña",
-        "Tatuaje",
-        "Fotografía aérea"
-      ],
-      "respuestaCorrecta": "Pintura en una pared"
-    },
-    {
-      "categoria": "Países",
-      "pregunta": "¿Cuál es el país más grande del mundo?",
-      "opciones": [
-        "Rusia",
-        "China",
-        "Canadá",
-        "EE.UU."
-      ],
-      "respuestaCorrecta": "Rusia"
-    },
-    {
-      "categoria": "Países",
-      "pregunta": "¿En qué país está la Torre Eiffel?",
-      "opciones": [
-        "Francia",
-        "Italia",
-        "España",
-        "Alemania"
-      ],
-      "respuestaCorrecta": "Francia"
-    },
-    {
-      "categoria": "Países",
-      "pregunta": "¿Qué país tiene forma de bota?",
-      "opciones": [
-        "Italia",
-        "Grecia",
-        "Chile",
-        "India"
-      ],
-      "respuestaCorrecta": "Italia"
-    },
-    {
-      "categoria": "Países",
-      "pregunta": "¿Cuál es el idioma oficial de Brasil?",
-      "opciones": [
-        "Portugués",
-        "Español",
-        "Inglés",
-        "Francés"
-      ],
-      "respuestaCorrecta": "Portugués"
-    },
-    {
-      "categoria": "Países",
-      "pregunta": "¿Dónde se encuentra el Monte Fuji?",
-      "opciones": [
-        "Japón",
-        "China",
-        "Corea",
-        "India"
-      ],
-      "respuestaCorrecta": "Japón"
-    },
-    {
-      "categoria": "Países",
-      "pregunta": "¿Cuál es la capital de Australia?",
-      "opciones": [
-        "Canberra",
-        "Sídney",
-        "Melbourne",
-        "Brisbane"
-      ],
-      "respuestaCorrecta": "Canberra"
-    },
-    {
-      "categoria": "Países",
-      "pregunta": "¿Qué país tiene más habitantes?",
-      "opciones": [
-        "India",
-        "China",
-        "EE.UU.",
-        "Indonesia"
-      ],
-      "respuestaCorrecta": "India"
-    },
-    {
-      "categoria": "Espacio",
-      "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
-      "opciones": [
-        "Júpiter",
-        "Saturno",
-        "Tierra",
-        "Neptuno"
-      ],
-      "respuestaCorrecta": "Júpiter"
-    },
-    {
-      "categoria": "Espacio",
-      "pregunta": "¿Cuántos planetas tiene el sistema solar?",
-      "opciones": [
-        "8",
-        "7",
-        "9",
-        "6"
-      ],
-      "respuestaCorrecta": "8"
-    },
-    {
-      "categoria": "Espacio",
-      "pregunta": "¿Qué astro ilumina la Tierra?",
-      "opciones": [
-        "El Sol",
-        "La Luna",
-        "Marte",
-        "Venus"
-      ],
-      "respuestaCorrecta": "El Sol"
-    },
-    {
-      "categoria": "Espacio",
-      "pregunta": "¿Quién fue el primer hombre en la Luna?",
-      "opciones": [
-        "Neil Armstrong",
-        "Buzz Aldrin",
-        "Yuri Gagarin",
-        "Elon Musk"
-      ],
-      "respuestaCorrecta": "Neil Armstrong"
-    },
-    {
-      "categoria": "Espacio",
-      "pregunta": "¿Qué planeta tiene un gran anillo a su alrededor?",
-      "opciones": [
-        "Saturno",
-        "Urano",
-        "Júpiter",
-        "Neptuno"
-      ],
-      "respuestaCorrecta": "Saturno"
-    },
-    {
-      "categoria": "Espacio",
-      "pregunta": "¿Qué planeta es conocido como el planeta rojo?",
-      "opciones": [
-        "Marte",
-        "Venus",
-        "Mercurio",
-        "Tierra"
-      ],
-      "respuestaCorrecta": "Marte"
-    },
-    {
-      "categoria": "Espacio",
-      "pregunta": "¿Cómo se llama nuestra galaxia?",
-      "opciones": [
-        "Vía Láctea",
-        "Andrómeda",
-        "Sagitario A",
-        "Alfa Centauri"
-      ],
-      "respuestaCorrecta": "Vía Láctea"
-    },
-    {
-      "categoria": "Plantas",
-      "pregunta": "¿Qué parte de la planta absorbe el agua?",
-      "opciones": [
-        "Raíz",
-        "Tallo",
-        "Hojas",
-        "Flores"
-      ],
-      "respuestaCorrecta": "Raíz"
-    },
-    {
-      "categoria": "Plantas",
-      "pregunta": "¿Qué gas toman las plantas para hacer fotosíntesis?",
-      "opciones": [
-        "Dióxido de carbono",
-        "Oxígeno",
-        "Nitrógeno",
-        "Helio"
-      ],
-      "respuestaCorrecta": "Dióxido de carbono"
-    },
-    {
-      "categoria": "Plantas",
-      "pregunta": "¿Qué parte de la planta hace la fotosíntesis?",
-      "opciones": [
-        "Hojas",
-        "Raíz",
-        "Flor",
-        "Fruto"
-      ],
-      "respuestaCorrecta": "Hojas"
-    },
-    {
-      "categoria": "Plantas",
-      "pregunta": "¿Qué necesitan las plantas para crecer?",
-      "opciones": [
-        "Luz, agua y tierra",
-        "Fuego y humo",
-        "Azúcar y sal",
-        "Viento y arena"
-      ],
-      "respuestaCorrecta": "Luz, agua y tierra"
-    },
-    {
-      "categoria": "Plantas",
-      "pregunta": "¿Qué parte de la planta se convierte en fruto?",
-      "opciones": [
-        "Flor",
-        "Raíz",
-        "Hojas",
-        "Tallo"
-      ],
-      "respuestaCorrecta": "Flor"
-    },
-    {
-      "categoria": "Plantas",
-      "pregunta": "¿Qué tipo de planta vive en el desierto?",
-      "opciones": [
-        "Cactus",
-        "Lirio",
-        "Helecho",
-        "Margarita"
-      ],
-      "respuestaCorrecta": "Cactus"
-    },
-    {
-      "categoria": "Plantas",
-      "pregunta": "¿Qué parte de la planta transporta agua y nutrientes?",
-      "opciones": [
-        "Tallo",
-        "Flor",
-        "Raíz",
-        "Semilla"
-      ],
-      "respuestaCorrecta": "Tallo"
-    }
-  ]
+  {
+    "Categoria": "Naturaleza",
+    "Enunciado": "¿Cuál es el río más largo del mundo?",
+    "Respuesta1": "Amazonas",
+    "Respuesta2": "Nilo",
+    "Respuesta3": "Yangtsé",
+    "Respuesta4": "Misisipi",
+    "RespuestaCorrecta": "Amazonas"
+  },
+  {
+    "Categoria": "Naturaleza",
+    "Enunciado": "¿Qué tipo de energía proviene del sol?",
+    "Respuesta1": "Energía térmica",
+    "Respuesta2": "Energía eólica",
+    "Respuesta3": "Energía solar",
+    "Respuesta4": "Energía hidroeléctrica",
+    "RespuestaCorrecta": "Energía solar"
+  },
+  {
+    "Categoria": "Naturaleza",
+    "Enunciado": "¿Dónde se encuentra la Gran Barrera de Coral?",
+    "Respuesta1": "México",
+    "Respuesta2": "Australia",
+    "Respuesta3": "Indonesia",
+    "Respuesta4": "Sudáfrica",
+    "RespuestaCorrecta": "Australia"
+  },
+  {
+    "Categoria": "Naturaleza",
+    "Enunciado": "¿Cuál es el desierto más grande del mundo?",
+    "Respuesta1": "Sahara",
+    "Respuesta2": "Gobi",
+    "Respuesta3": "Antártida",
+    "Respuesta4": "Kalahari",
+    "RespuestaCorrecta": "Antártida"
+  },
+  {
+    "Categoria": "Naturaleza",
+    "Enunciado": "¿Qué capa de la Tierra está justo debajo de la corteza?",
+    "Respuesta1": "Núcleo",
+    "Respuesta2": "Manto",
+    "Respuesta3": "Litosfera",
+    "Respuesta4": "Atmósfera",
+    "RespuestaCorrecta": "Manto"
+  },
+  {
+    "Categoria": "Naturaleza",
+    "Enunciado": "¿Qué fenómeno natural puede causar un tsunami?",
+    "Respuesta1": "Erupción volcánica",
+    "Respuesta2": "Terremoto submarino",
+    "Respuesta3": "Huracán",
+    "Respuesta4": "Tornado",
+    "RespuestaCorrecta": "Terremoto submarino"
+  },
+  {
+    "Categoria": "Clima",
+    "Enunciado": "¿Qué instrumento mide la temperatura?",
+    "Respuesta1": "Barómetro",
+    "Respuesta2": "Termómetro",
+    "Respuesta3": "Higrómetro",
+    "Respuesta4": "Anemómetro",
+    "RespuestaCorrecta": "Termómetro"
+  },
+  {
+    "Categoria": "Clima",
+    "Enunciado": "¿Qué gas contribuye al efecto invernadero?",
+    "Respuesta1": "Oxígeno",
+    "Respuesta2": "Nitrógeno",
+    "Respuesta3": "Dióxido de carbono",
+    "Respuesta4": "Hidrógeno",
+    "RespuestaCorrecta": "Dióxido de carbono"
+  },
+  {
+    "Categoria": "Clima",
+    "Enunciado": "¿Qué fenómeno produce relámpagos y truenos?",
+    "Respuesta1": "Lluvia ligera",
+    "Respuesta2": "Tormenta eléctrica",
+    "Respuesta3": "Granizo",
+    "Respuesta4": "Niebla",
+    "RespuestaCorrecta": "Tormenta eléctrica"
+  },
+  {
+    "Categoria": "Clima",
+    "Enunciado": "¿Cuál es el principal causante del cambio climático?",
+    "Respuesta1": "Uso de plásticos",
+    "Respuesta2": "Deforestación",
+    "Respuesta3": "Gases de efecto invernadero",
+    "Respuesta4": "Contaminación del agua",
+    "RespuestaCorrecta": "Gases de efecto invernadero"
+  },
+  {
+    "Categoria": "Clima",
+    "Enunciado": "¿Qué significa el índice UV alto?",
+    "Respuesta1": "Lluvia intensa",
+    "Respuesta2": "Mayor radiación solar",
+    "Respuesta3": "Alta humedad",
+    "Respuesta4": "Fuerte viento",
+    "RespuestaCorrecta": "Mayor radiación solar"
+  },
+  {
+    "Categoria": "Clima",
+    "Enunciado": "¿Cómo se llama el estudio del clima?",
+    "Respuesta1": "Astronomía",
+    "Respuesta2": "Ecología",
+    "Respuesta3": "Meteorología",
+    "Respuesta4": "Geología",
+    "RespuestaCorrecta": "Meteorología"
+  },
+  {
+    "Categoria": "Arte",
+    "Enunciado": "¿Quién pintó la Capilla Sixtina?",
+    "Respuesta1": "Da Vinci",
+    "Respuesta2": "Miguel Ángel",
+    "Respuesta3": "Picasso",
+    "Respuesta4": "Rembrandt",
+    "RespuestaCorrecta": "Miguel Ángel"
+  },
+  {
+    "Categoria": "Arte",
+    "Enunciado": "¿Qué es un fresco?",
+    "Respuesta1": "Una escultura pequeña",
+    "Respuesta2": "Pintura sobre madera",
+    "Respuesta3": "Pintura sobre yeso húmedo",
+    "Respuesta4": "Tipo de grabado",
+    "RespuestaCorrecta": "Pintura sobre yeso húmedo"
+  },
+  {
+    "Categoria": "Arte",
+    "Enunciado": "¿Qué artista es famoso por pintar girasoles?",
+    "Respuesta1": "Monet",
+    "Respuesta2": "Van Gogh",
+    "Respuesta3": "Dalí",
+    "Respuesta4": "Klimt",
+    "RespuestaCorrecta": "Van Gogh"
+  },
+  {
+    "Categoria": "Arte",
+    "Enunciado": "¿Cuál es una técnica de escultura?",
+    "Respuesta1": "Modelado",
+    "Respuesta2": "Collage",
+    "Respuesta3": "Acuarela",
+    "Respuesta4": "Fotografía",
+    "RespuestaCorrecta": "Modelado"
+  },
+  {
+    "Categoria": "Arte",
+    "Enunciado": "¿Dónde se encuentra el Museo del Louvre?",
+    "Respuesta1": "Roma",
+    "Respuesta2": "Londres",
+    "Respuesta3": "París",
+    "Respuesta4": "Madrid",
+    "RespuestaCorrecta": "París"
+  },
+  {
+    "Categoria": "Arte",
+    "Enunciado": "¿Qué arte usa cámaras y luz?",
+    "Respuesta1": "Pintura",
+    "Respuesta2": "Escultura",
+    "Respuesta3": "Fotografía",
+    "Respuesta4": "Dibujo",
+    "RespuestaCorrecta": "Fotografía"
+  },
+  {
+    "Categoria": "Países",
+    "Enunciado": "¿Cuál es el país más poblado del mundo?",
+    "Respuesta1": "India",
+    "Respuesta2": "China",
+    "Respuesta3": "EE.UU.",
+    "Respuesta4": "Brasil",
+    "RespuestaCorrecta": "China"
+  },
+  {
+    "Categoria": "Países",
+    "Enunciado": "¿Cuál es la capital de Japón?",
+    "Respuesta1": "Kyoto",
+    "Respuesta2": "Osaka",
+    "Respuesta3": "Tokio",
+    "Respuesta4": "Nagoya",
+    "RespuestaCorrecta": "Tokio"
+  },
+  {
+    "Categoria": "Países",
+    "Enunciado": "¿En qué continente está Egipto?",
+    "Respuesta1": "Asia",
+    "Respuesta2": "África",
+    "Respuesta3": "Europa",
+    "Respuesta4": "América",
+    "RespuestaCorrecta": "África"
+  },
+  {
+    "Categoria": "Países",
+    "Enunciado": "¿Qué país tiene forma de bota?",
+    "Respuesta1": "Grecia",
+    "Respuesta2": "Italia",
+    "Respuesta3": "España",
+    "Respuesta4": "Portugal",
+    "RespuestaCorrecta": "Italia"
+  },
+  {
+    "Categoria": "Países",
+    "Enunciado": "¿Cuál es el idioma oficial de Brasil?",
+    "Respuesta1": "Español",
+    "Respuesta2": "Portugués",
+    "Respuesta3": "Inglés",
+    "Respuesta4": "Francés",
+    "RespuestaCorrecta": "Portugués"
+  },
+  {
+    "Categoria": "Países",
+    "Enunciado": "¿Dónde está el Taj Mahal?",
+    "Respuesta1": "Pakistán",
+    "Respuesta2": "India",
+    "Respuesta3": "Irán",
+    "Respuesta4": "Nepal",
+    "RespuestaCorrecta": "India"
+  },
+  {
+    "Categoria": "Espacio",
+    "Enunciado": "¿Cuál es el planeta más cercano al Sol?",
+    "Respuesta1": "Venus",
+    "Respuesta2": "Tierra",
+    "Respuesta3": "Mercurio",
+    "Respuesta4": "Marte",
+    "RespuestaCorrecta": "Mercurio"
+  },
+  {
+    "Categoria": "Espacio",
+    "Enunciado": "¿Qué satélite natural orbita la Tierra?",
+    "Respuesta1": "Marte",
+    "Respuesta2": "La Luna",
+    "Respuesta3": "Júpiter",
+    "Respuesta4": "Saturno",
+    "RespuestaCorrecta": "La Luna"
+  },
+  {
+    "Categoria": "Espacio",
+    "Enunciado": "¿Qué planeta tiene anillos visibles?",
+    "Respuesta1": "Saturno",
+    "Respuesta2": "Neptuno",
+    "Respuesta3": "Urano",
+    "Respuesta4": "Júpiter",
+    "RespuestaCorrecta": "Saturno"
+  },
+  {
+    "Categoria": "Espacio",
+    "Enunciado": "¿Cuál es el nombre del vehículo que llevó al hombre a la Luna?",
+    "Respuesta1": "Apolo 11",
+    "Respuesta2": "Discovery",
+    "Respuesta3": "Voyager",
+    "Respuesta4": "Hubble",
+    "RespuestaCorrecta": "Apolo 11"
+  },
+  {
+    "Categoria": "Plantas",
+    "Enunciado": "¿Qué parte de la planta se encarga de absorber agua?",
+    "Respuesta1": "Raíz",
+    "Respuesta2": "Tallo",
+    "Respuesta3": "Hojas",
+    "Respuesta4": "Flor",
+    "RespuestaCorrecta": "Raíz"
+  },
+  {
+    "Categoria": "Plantas",
+    "Enunciado": "¿Qué proceso usan las plantas para fabricar su alimento?",
+    "Respuesta1": "Fotosíntesis",
+    "Respuesta2": "Respiración",
+    "Respuesta3": "Digestión",
+    "Respuesta4": "Germinación",
+    "RespuestaCorrecta": "Fotosíntesis"
+  },
+  {
+    "Categoria": "Plantas",
+    "Enunciado": "¿Qué parte de la planta se convierte en fruto?",
+    "Respuesta1": "Hojas",
+    "Respuesta2": "Raíz",
+    "Respuesta3": "Flor",
+    "Respuesta4": "Tallo",
+    "RespuestaCorrecta": "Flor"
+  },
+  {
+    "Categoria": "Plantas",
+    "Enunciado": "¿Qué tipo de planta almacena agua para sobrevivir en el desierto?",
+    "Respuesta1": "Cactus",
+    "Respuesta2": "Helecho",
+    "Respuesta3": "Pino",
+    "Respuesta4": "Lirio",
+    "RespuestaCorrecta": "Cactus"
+  }
+  
+  
+]

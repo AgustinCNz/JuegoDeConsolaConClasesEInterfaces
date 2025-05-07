@@ -8,7 +8,7 @@ class Program
 
         Console.WriteLine("🎮 Bienvenido al Juego de Preguntas y Respuestas");
         Console.Write("Por favor, ingresá tu nombre: ");
-        string nombre = Console.ReadLine();
+        string? nombre = Console.ReadLine();
 
         if (string.IsNullOrWhiteSpace(nombre))
         {

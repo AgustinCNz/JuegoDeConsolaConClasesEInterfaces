@@ -6,8 +6,14 @@ public class JuegoPreguntas
 
     public JuegoPreguntas()
     {
+        var opciones = new JsonSerializerOptions
+        {
+            PropertyNameCaseInsensitive = true
+        };
+
         string json = File.ReadAllText("Preguntas.json");
-        preguntas = JsonSerializer.Deserialize<List<Pregunta>>(json) ?? new List<Pregunta>();
+        preguntas = JsonSerializer.Deserialize<List<Pregunta>>(json, opciones) ?? new List<Pregunta>();
+
     }
 
     public void Iniciar(Jugador jugador)
@@ -45,7 +51,8 @@ public class JuegoPreguntas
 
             int puntos = 0;
             bool acertado = false;
-
+           
+            string respuestaElegidaFinal = "Sin acierto";
             for (int intento = 1; intento <= 2; intento++)
             {
                 Console.Write("\nIngrese el número de su respuesta (1 a 4): ");
@@ -66,6 +73,9 @@ public class JuegoPreguntas
                     continue;
                 }
 
+                respuestaElegidaFinal = respuestaElegida;
+
+
                 if (respuestaElegida == pregunta.RespuestaCorrecta)
                 {
                     puntos = intento == 1 ? 2 : 1;
@@ -83,48 +93,47 @@ public class JuegoPreguntas
             if (!acertado)
                 Console.WriteLine($"😢 La respuesta correcta era: {pregunta.RespuestaCorrecta}");
 
-            jugador.Respuestas.Add((pregunta, acertado ? pregunta.RespuestaCorrecta : "Sin acierto", puntos));
-        
+            jugador.Respuestas.Add((pregunta, respuestaElegidaFinal, puntos));
+
             
         }
         MostrarResultado(jugador);
 
     }
                 private void MostrarResultado(Jugador jugador)
-            {
-                Console.WriteLine("\n📋 RESULTADOS FINALES");
-                Console.WriteLine("------------------------");
+{
+    Console.WriteLine("\n📋 RESULTADOS FINALES");
+    Console.WriteLine("------------------------");
 
-                foreach (var respuesta in jugador.Respuestas)
-                {
-                    var pregunta = respuesta.pregunta;
-                    var respuestaDada = respuesta.respuesta;
-                    var puntos = respuesta.puntos;
+    foreach (var respuestaInfo in jugador.Respuestas)
+    {
+        var preguntaInfo = respuestaInfo.pregunta;
+        var respuestaTexto = respuestaInfo.respuesta;
+        var puntosObtenidos = respuestaInfo.puntos;
 
-                    Console.WriteLine($"\n🔹 Pregunta: {pregunta.Enunciado}");
-                    Console.WriteLine($"Categoría: {pregunta.Categoria}");
-                    Console.WriteLine($"Respuesta correcta: {pregunta.RespuestaCorrecta}");
-                    Console.WriteLine($"Tu respuesta: {respuestaDada}");
-                    Console.WriteLine($"Puntos obtenidos: {puntos}");
-                }
+        Console.WriteLine($"\n🔹 Pregunta: {preguntaInfo.Enunciado}");
+        Console.WriteLine($"Categoría: {preguntaInfo.Categoria}");
+        Console.WriteLine($"Respuesta correcta: {preguntaInfo.RespuestaCorrecta}");
+        Console.WriteLine($"Tu respuesta: {respuestaTexto}");
+        Console.WriteLine($"Puntos obtenidos: {puntosObtenidos}");
+    }
 
-                Console.WriteLine($"\n🎯 Puntaje final de {jugador.Nombre}: {jugador.Puntaje} puntos");
-            
-                Console.WriteLine("\n🏆 PREMIO FINAL");
+    Console.WriteLine($"\n🎯 Puntaje final de {jugador.Nombre}: {jugador.Puntaje} puntos");
 
-                    if (jugador.Puntaje >= 8 && jugador.Puntaje <= 10)
-                    {
-                        Console.WriteLine("🎉 ¡Felicitaciones! Ganaste un viaje virtual al conocimiento. ¡Sos un genio!");
-                    }
-                    else if (jugador.Puntaje >= 4 && jugador.Puntaje < 8)
-                    {
-                        Console.WriteLine("💪 Buen trabajo. Estás en el camino correcto, seguí así.");
-                    }
-                    else
-                    {
-                        Console.WriteLine("🔥 No te rindas. Jugá otra vez y demostrá de lo que sos capaz.");
-                    }
+    Console.WriteLine("\n🏆 PREMIO FINAL");
 
-            }
+    if (jugador.Puntaje >= 8 && jugador.Puntaje <= 10)
+    {
+        Console.WriteLine("🎉 ¡Felicitaciones! Ganaste un viaje virtual al conocimiento. ¡Sos un genio!");
+    }
+    else if (jugador.Puntaje >= 4 && jugador.Puntaje < 8)
+    {
+        Console.WriteLine("💪 Buen trabajo. Estás en el camino correcto, seguí así.");
+    }
+    else
+    {
+        Console.WriteLine("🔥 No te rindas. Jugá otra vez y demostrá de lo que sos capaz.");
+    }
+}
 
 }
