@@ -1,23 +1,27 @@
 ﻿using System;
-using System.Text.Json;
-using System.Collections.Generic;
 
 class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
-        Console.WriteLine("🎮 ¡Bienvenido al Juego de Preguntas!");
+        Console.Title = "Juego de Preguntas y Respuestas";
+
+        Console.WriteLine("🎮 Bienvenido al Juego de Preguntas y Respuestas");
         Console.Write("Por favor, ingresá tu nombre: ");
-        string nombre = Console.ReadLine() ?? "Jugador";
+        string nombre = Console.ReadLine();
 
-        Jugador jugador = new Jugador
+        if (string.IsNullOrWhiteSpace(nombre))
         {
-            Nombre = nombre,
-            Puntaje = 0,
-            Respuestas = new()
-        };
+            Console.WriteLine("⚠️ Nombre inválido. Cerrando juego...");
+            return;
+        }
 
+        Jugador jugador = new Jugador(nombre);
         JuegoPreguntas juego = new JuegoPreguntas();
+
         juego.Iniciar(jugador);
+
+        Console.WriteLine("\nGracias por jugar. ¡Hasta la próxima!");
+        Console.ReadKey();
     }
 }

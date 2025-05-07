@@ -1,59 +1,222 @@
 [
+  [
     {
-      "categoria": "Naturaleza",
-      "pregunta": "¿Cuál es el animal terrestre más grande del mundo?",
-      "opciones": [
-        "Elefante africano",
-        "Jirafa",
-        "Hipopótamo",
-        "Rinoceronte"
-      ],
-      "respuestaCorrecta": "Elefante africano"
+      "Categoria": "Naturaleza",
+      "Enunciado": "¿Cuál es el río más largo del mundo?",
+      "Respuesta1": "Amazonas",
+      "Respuesta2": "Nilo",
+      "Respuesta3": "Yangtsé",
+      "Respuesta4": "Misisipi",
+      "RespuestaCorrecta": "Amazonas"
     },
     {
-      "categoria": "Naturaleza",
-      "pregunta": "¿Qué gas es esencial para la respiración de los seres humanos?",
-      "opciones": [
-        "Oxígeno",
-        "Nitrógeno",
-        "Dióxido de carbono",
-        "Hidrógeno"
-      ],
-      "respuestaCorrecta": "Oxígeno"
+      "Categoria": "Naturaleza",
+      "Enunciado": "¿Qué tipo de energía proviene del sol?",
+      "Respuesta1": "Energía térmica",
+      "Respuesta2": "Energía eólica",
+      "Respuesta3": "Energía solar",
+      "Respuesta4": "Energía hidroeléctrica",
+      "RespuestaCorrecta": "Energía solar"
     },
     {
-      "categoria": "Naturaleza",
-      "pregunta": "¿Cuál es el ecosistema más grande del planeta?",
-      "opciones": [
-        "Océano",
-        "Selva",
-        "Desierto",
-        "Sabana"
-      ],
-      "respuestaCorrecta": "Océano"
+      "Categoria": "Naturaleza",
+      "Enunciado": "¿Dónde se encuentra la Gran Barrera de Coral?",
+      "Respuesta1": "México",
+      "Respuesta2": "Australia",
+      "Respuesta3": "Indonesia",
+      "Respuesta4": "Sudáfrica",
+      "RespuestaCorrecta": "Australia"
     },
     {
-      "categoria": "Naturaleza",
-      "pregunta": "¿Qué animal pone huevos?",
-      "opciones": [
-        "Ornitorrinco",
-        "Ballena",
-        "León",
-        "Canguro"
-      ],
-      "respuestaCorrecta": "Ornitorrinco"
+      "Categoria": "Naturaleza",
+      "Enunciado": "¿Cuál es el desierto más grande del mundo?",
+      "Respuesta1": "Sahara",
+      "Respuesta2": "Gobi",
+      "Respuesta3": "Antártida",
+      "Respuesta4": "Kalahari",
+      "RespuestaCorrecta": "Antártida"
     },
     {
-      "categoria": "Naturaleza",
-      "pregunta": "¿Cuál es el ave más rápida del mundo?",
-      "opciones": [
-        "Halcón peregrino",
-        "Águila real",
-        "Colibrí",
-        "Búho"
-      ],
-      "respuestaCorrecta": "Halcón peregrino"
+      "Categoria": "Naturaleza",
+      "Enunciado": "¿Qué capa de la Tierra está justo debajo de la corteza?",
+      "Respuesta1": "Núcleo",
+      "Respuesta2": "Manto",
+      "Respuesta3": "Litosfera",
+      "Respuesta4": "Atmósfera",
+      "RespuestaCorrecta": "Manto"
     },
+    {
+      "Categoria": "Naturaleza",
+      "Enunciado": "¿Qué fenómeno natural puede causar un tsunami?",
+      "Respuesta1": "Erupción volcánica",
+      "Respuesta2": "Terremoto submarino",
+      "Respuesta3": "Huracán",
+      "Respuesta4": "Tornado",
+      "RespuestaCorrecta": "Terremoto submarino"
+    },
+    {
+      "Categoria": "Clima",
+      "Enunciado": "¿Qué instrumento mide la temperatura?",
+      "Respuesta1": "Barómetro",
+      "Respuesta2": "Termómetro",
+      "Respuesta3": "Higrómetro",
+      "Respuesta4": "Anemómetro",
+      "RespuestaCorrecta": "Termómetro"
+    },
+    {
+      "Categoria": "Clima",
+      "Enunciado": "¿Qué gas contribuye al efecto invernadero?",
+      "Respuesta1": "Oxígeno",
+      "Respuesta2": "Nitrógeno",
+      "Respuesta3": "Dióxido de carbono",
+      "Respuesta4": "Hidrógeno",
+      "RespuestaCorrecta": "Dióxido de carbono"
+    },
+    {
+      "Categoria": "Clima",
+      "Enunciado": "¿Qué fenómeno produce relámpagos y truenos?",
+      "Respuesta1": "Lluvia ligera",
+      "Respuesta2": "Tormenta eléctrica",
+      "Respuesta3": "Granizo",
+      "Respuesta4": "Niebla",
+      "RespuestaCorrecta": "Tormenta eléctrica"
+    },
+    {
+      "Categoria": "Clima",
+      "Enunciado": "¿Cuál es el principal causante del cambio climático?",
+      "Respuesta1": "Uso de plásticos",
+      "Respuesta2": "Deforestación",
+      "Respuesta3": "Gases de efecto invernadero",
+      "Respuesta4": "Contaminación del agua",
+      "RespuestaCorrecta": "Gases de efecto invernadero"
+    },
+    {
+      "Categoria": "Clima",
+      "Enunciado": "¿Qué significa el índice UV alto?",
+      "Respuesta1": "Lluvia intensa",
+      "Respuesta2": "Mayor radiación solar",
+      "Respuesta3": "Alta humedad",
+      "Respuesta4": "Fuerte viento",
+      "RespuestaCorrecta": "Mayor radiación solar"
+    },
+    {
+      "Categoria": "Clima",
+      "Enunciado": "¿Cómo se llama el estudio del clima?",
+      "Respuesta1": "Astronomía",
+      "Respuesta2": "Ecología",
+      "Respuesta3": "Meteorología",
+      "Respuesta4": "Geología",
+      "RespuestaCorrecta": "Meteorología"
+    },
+    {
+      "Categoria": "Arte",
+      "Enunciado": "¿Quién pintó la Capilla Sixtina?",
+      "Respuesta1": "Da Vinci",
+      "Respuesta2": "Miguel Ángel",
+      "Respuesta3": "Picasso",
+      "Respuesta4": "Rembrandt",
+      "RespuestaCorrecta": "Miguel Ángel"
+    },
+    {
+      "Categoria": "Arte",
+      "Enunciado": "¿Qué es un fresco?",
+      "Respuesta1": "Una escultura pequeña",
+      "Respuesta2": "Pintura sobre madera",
+      "Respuesta3": "Pintura sobre yeso húmedo",
+      "Respuesta4": "Tipo de grabado",
+      "RespuestaCorrecta": "Pintura sobre yeso húmedo"
+    },
+    {
+      "Categoria": "Arte",
+      "Enunciado": "¿Qué artista es famoso por pintar girasoles?",
+      "Respuesta1": "Monet",
+      "Respuesta2": "Van Gogh",
+      "Respuesta3": "Dalí",
+      "Respuesta4": "Klimt",
+      "RespuestaCorrecta": "Van Gogh"
+    },
+    {
+      "Categoria": "Arte",
+      "Enunciado": "¿Cuál es una técnica de escultura?",
+      "Respuesta1": "Modelado",
+      "Respuesta2": "Collage",
+      "Respuesta3": "Acuarela",
+      "Respuesta4": "Fotografía",
+      "RespuestaCorrecta": "Modelado"
+    },
+    {
+      "Categoria": "Arte",
+      "Enunciado": "¿Dónde se encuentra el Museo del Louvre?",
+      "Respuesta1": "Roma",
+      "Respuesta2": "Londres",
+      "Respuesta3": "París",
+      "Respuesta4": "Madrid",
+      "RespuestaCorrecta": "París"
+    },
+    {
+      "Categoria": "Arte",
+      "Enunciado": "¿Qué arte usa cámaras y luz?",
+      "Respuesta1": "Pintura",
+      "Respuesta2": "Escultura",
+      "Respuesta3": "Fotografía",
+      "Respuesta4": "Dibujo",
+      "RespuestaCorrecta": "Fotografía"
+    },
+    {
+      "Categoria": "Países",
+      "Enunciado": "¿Cuál es el país más poblado del mundo?",
+      "Respuesta1": "India",
+      "Respuesta2": "China",
+      "Respuesta3": "EE.UU.",
+      "Respuesta4": "Brasil",
+      "RespuestaCorrecta": "China"
+    },
+    {
+      "Categoria": "Países",
+      "Enunciado": "¿Cuál es la capital de Japón?",
+      "Respuesta1": "Kyoto",
+      "Respuesta2": "Osaka",
+      "Respuesta3": "Tokio",
+      "Respuesta4": "Nagoya",
+      "RespuestaCorrecta": "Tokio"
+    },
+    {
+      "Categoria": "Países",
+      "Enunciado": "¿En qué continente está Egipto?",
+      "Respuesta1": "Asia",
+      "Respuesta2": "África",
+      "Respuesta3": "Europa",
+      "Respuesta4": "América",
+      "RespuestaCorrecta": "África"
+    },
+    {
+      "Categoria": "Países",
+      "Enunciado": "¿Qué país tiene forma de bota?",
+      "Respuesta1": "Grecia",
+      "Respuesta2": "Italia",
+      "Respuesta3": "España",
+      "Respuesta4": "Portugal",
+      "RespuestaCorrecta": "Italia"
+    },
+    {
+      "Categoria": "Países",
+      "Enunciado": "¿Cuál es el idioma oficial de Brasil?",
+      "Respuesta1": "Español",
+      "Respuesta2": "Portugués",
+      "Respuesta3": "Inglés",
+      "Respuesta4": "Francés",
+      "RespuestaCorrecta": "Portugués"
+    },
+    {
+      "Categoria": "Países",
+      "Enunciado": "¿Dónde está el Taj Mahal?",
+      "Respuesta1": "Pakistán",
+      "Respuesta2": "India",
+      "Respuesta3": "Irán",
+      "Respuesta4": "Nepal",
+      "RespuestaCorrecta": "India"
+    }
+  ],
     {
       "categoria": "Naturaleza",
       "pregunta": "¿Qué parte del cuerpo utilizan las mariposas para saborear?",
